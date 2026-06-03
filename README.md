@@ -38,16 +38,6 @@ Desarrollador Full Stack con **3+ años de experiencia** en construcción de sol
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=3mm404&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3mm404&style=flat-square&color=00ADD8" alt="Profile views"/>
 </p>
