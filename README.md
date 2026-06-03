@@ -40,13 +40,7 @@ Desarrollador Full Stack con **3+ años de experiencia** en construcción de sol
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mm404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mm404&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=3mm404&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
