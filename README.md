@@ -1,43 +1,52 @@
-<h1 align="center">Christian Pérez &nbsp;🦝</h1>
+# Christian Pérez
 
-<p align="center">
-  <em>Full Stack Developer &nbsp;·&nbsp; Go · Python · Dart · Linux · Docker</em>
-</p>
+**Desarrollador Full Stack · Go · Flutter / Dart**
 
-<p align="center">
-  <a href="https://discord.gg/_crprz"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  &nbsp;
-  <a href="https://instagram.com/_crprz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  &nbsp;
-  <a href="https://tiktok.com/@_crprz"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  &nbsp;
-  <a href="https://x.com/_crprz"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  &nbsp;
-  <a href="mailto:christianperez@ce-data.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Desarrollo aplicaciones y herramientas que conectan interfaces, APIs y servicios locales. Mi trabajo reciente se centra en aplicaciones Flutter, integración con motores escritos en Go y sistemas de audio por zonas para Windows.
 
----
+[Portafolio / CE-DATA](https://ce-data.com) · [Contacto](mailto:christianperez@ce-data.com)
 
-## About me
+## En qué trabajo
 
-Desarrollador Full Stack con **3+ años de experiencia** en construcción de soluciones escalables, diseño de APIs y optimización de sistemas. Me adapto rápido a distintos stacks y disfruto resolver problemas complejos en entornos colaborativos.
+- **Aplicaciones con Flutter y Dart:** interfaces de escritorio, gestión de estado, autenticación, persistencia de preferencias e internacionalización.
+- **Servicios y herramientas con Go:** motores locales, comunicación con aplicaciones de escritorio e integración con APIs.
+- **Integración de sistemas:** conexión entre interfaces Flutter, motores Go y servicios backend.
+- **Calidad y mantenimiento:** separación de responsabilidades, documentación técnica y pruebas de modelos, sesión e interfaces.
 
----
+## Tecnologías
 
-## 💻 Tech Stack
+| Área | Tecnologías |
+| --- | --- |
+| Desarrollo principal | Go, Dart, Flutter |
+| Integración de APIs | HTTP, JSON, Dio, autenticación Bearer |
+| Aplicaciones Flutter | GetX, Freezed, almacenamiento seguro, internacionalización |
+| Otras herramientas de mi stack | Python, Linux, Docker, Git |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+## Proyectos destacados
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3mm404&style=flat-square&color=00ADD8" alt="Profile views"/>
-</p>
+### [Music Engine](https://github.com/3mm404/music-engine)
+Motor de audio en Go para reproducción por zonas en Windows, integrado con un backend Laravel y una aplicación Flutter. Incluye capas para control, reproducción, decodificación y salidas de audio.
+
+**Go · Audio · Windows · Integración de sistemas**  
+Estado documentado: beta para Windows.
+
+### [UTRACK Desktop](https://github.com/3mm404/Utrack_Desktop)
+Interfaz Flutter para configurar y controlar un motor local de audio. Presenta zonas y estados reportados por el motor e incorpora controles de reproducción y volumen según la versión compatible.
+
+**Flutter · Dart · Escritorio · Comunicación con motor local**
+
+### [Flutter Starter](https://github.com/3mm404/flutter-starter)
+Base de aplicación con login, restauración de sesión, consumo de APIs y personalización de tema e idioma. Organizada por funcionalidades y responsabilidades, con pruebas de sesión, modelos e interfaz.
+
+**Flutter · Dio · GetX · Freezed · Autenticación · Pruebas**
+
+## Mi enfoque
+
+Busco que el código sea comprensible y fácil de mantener: responsabilidades claras, componentes reutilizables y documentación que explique tanto el funcionamiento como los límites de cada proyecto.
+
+## Contacto
+
+Para conversar sobre mis proyectos o posibles colaboraciones:
+
+- **Correo:** [christianperez@ce-data.com](mailto:christianperez@ce-data.com)
+- **Web:** [ce-data.com](https://ce-data.com)
