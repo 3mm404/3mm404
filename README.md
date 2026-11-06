@@ -5,8 +5,8 @@
 
 ### Tech Stack
 
-**Languages:** Go · Dart  
-**Frameworks:** Flutter  
+**Languages:** Go · Dart · php · Python
+**Frameworks:** Flutter · Laravel · Fiber
 **Infrastructure:** Linux · Docker · PostgreSQL  
 **Tools:** Git · REST APIs · Testing
 
